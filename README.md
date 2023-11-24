@@ -1,13 +1,3 @@
-# React Course
-
-If you enjoy the content and my teaching style, you can always enroll in the full course (link below)
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-## All My Courses
-
-[Project Based Web Dev Courses](https://www.johnsmilga.com/)
-
 #### Projects
 
 - each project contains final/starter
@@ -35,7 +25,6 @@ npm run dev
 - you can try to complete the entire app before watching or before each video
 
 Please note that the steps provided are intentionally somewhat vague. The purpose of this challenge is to encourage creative thinking and problem-solving by allowing for multiple possible solutions. Therefore, feel free to interpret these steps in your own way and adapt them to your unique circumstances. Don't be afraid to think outside the box and come up with innovative approaches to the task at hand!
-
 
 #### Size
 
