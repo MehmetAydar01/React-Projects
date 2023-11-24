@@ -1,3 +1,3 @@
 #### Projects
 
-- **[01-Birthday Buddy](https://youtu.be/UDdyGNlQK5w)**
+- **[01-Birthday Buddy](https://birthday-buddys.netlify.app/)**
