@@ -7,3 +7,5 @@
 - **Project 03 - [Tours](https://reviews-projects.netlify.app/)**
 
 - **Project 04 - [Questions Accordion](https://questions-accordions.netlify.app/)**
+
+- **Project 04--2 - [Questions Accordion - 2](https://question-accordion-2.netlify.app/)**
