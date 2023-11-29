@@ -13,3 +13,5 @@
 - **Project 05 - [Menu](https://menu-projects.netlify.app/)**
 
 - **Project 06 - [Tabs](https://tabs-menu-project.netlify.app/)**
+
+- **Project 07 - [Tabs](https://slide-projects.netlify.app/)**
