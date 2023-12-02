@@ -18,4 +18,6 @@
 
 - **Project 08 - [Lorem Ipsum Generate](https://lorem-ipsum-generates.netlify.app/)**
 
-- **Project 09 - [Color Generator](https://lorem-ipsum-generates.netlify.app/)**
+- **Project 09 - [Color Generator](https://color-generator-copies.netlify.app/)**
+
+- **Project 10 - [Grocery Bud - To Do List](https://grocery-bud-list-to-do.netlify.app/)**
