@@ -17,3 +17,5 @@
 - **Project 07 - [Tabs](https://slide-projects.netlify.app/)**
 
 - **Project 08 - [Lorem Ipsum Generate](https://lorem-ipsum-generates.netlify.app/)**
+
+- **Project 09 - [Color Generator](https://lorem-ipsum-generates.netlify.app/)**
