@@ -15,3 +15,5 @@
 - **Project 06 - [Tabs](https://tabs-menu-project.netlify.app/)**
 
 - **Project 07 - [Tabs](https://slide-projects.netlify.app/)**
+
+- **Project 08 - [Lorem Ipsum Generate](https://lorem-ipsum-generates.netlify.app/)**
