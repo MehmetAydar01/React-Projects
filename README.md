@@ -21,3 +21,5 @@
 - **Project 09 - [Color Generator](https://color-generator-copies.netlify.app/)**
 
 - **Project 10 - [Grocery Bud - To Do List](https://grocery-bud-list-to-do.netlify.app/)**
+
+- **Project 11 - [Navbar](https://navbar-btn-projects.netlify.app/)**
