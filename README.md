@@ -25,3 +25,5 @@
 - **Project 11 - [Navbar](https://navbar-btn-projects.netlify.app/)**
 
 - **Project 12 - [Sidebar & Modal](https://sidebar-modal-projects.netlify.app/)**
+
+- **Project 13 - [Strapi Submenus](https://menu-strapi-submenus.netlify.app/)**
