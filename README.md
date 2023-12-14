@@ -27,3 +27,5 @@
 - **Project 12 - [Sidebar & Modal](https://sidebar-modal-projects.netlify.app/)**
 
 - **Project 13 - [Strapi Submenus](https://menu-strapi-submenus.netlify.app/)**
+
+- **Project 14 - [Shopping Cart](https://shopping-cart-beauty.netlify.app/)**
